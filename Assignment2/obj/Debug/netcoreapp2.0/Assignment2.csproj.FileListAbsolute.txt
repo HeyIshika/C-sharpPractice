@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Assignment2\bin\Debug\netcoreapp2.0\Assignment2.deps.json
+C:\Users\Administrator\Desktop\Assignment2\bin\Debug\netcoreapp2.0\Assignment2.runtimeconfig.json
+C:\Users\Administrator\Desktop\Assignment2\bin\Debug\netcoreapp2.0\Assignment2.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Assignment2\bin\Debug\netcoreapp2.0\Assignment2.dll
+C:\Users\Administrator\Desktop\Assignment2\bin\Debug\netcoreapp2.0\Assignment2.pdb
+C:\Users\Administrator\Desktop\Assignment2\obj\Debug\netcoreapp2.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Assignment2\obj\Debug\netcoreapp2.0\Assignment2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Assignment2\obj\Debug\netcoreapp2.0\Assignment2.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Assignment2\obj\Debug\netcoreapp2.0\Assignment2.dll
+C:\Users\Administrator\Desktop\Assignment2\obj\Debug\netcoreapp2.0\Assignment2.pdb
